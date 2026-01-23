@@ -17,7 +17,7 @@ A minimalist and professional React Quiz App featuring **10 random questions**, 
 
 ## 🛠 Technologies Used
 
-- **https://github.com/talhaw-cmd/react-quiz-app/raw/refs/heads/main/src/app_react_quiz_v2.8.zip** (Functional Components + Hooks)  
+- **React.js** (Functional Components + Hooks)  
 - **JavaScript (ES6+)**  
 - **HTML5 & CSS3** (Minimalist styling)  
 
