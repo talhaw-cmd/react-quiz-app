@@ -20,5 +20,3 @@ A minimalist and professional React Quiz App featuring **10 random questions**, 
 - **React.js** (Functional Components + Hooks)  
 - **JavaScript (ES6+)**  
 - **HTML5 & CSS3** (Minimalist styling)  
-
----
